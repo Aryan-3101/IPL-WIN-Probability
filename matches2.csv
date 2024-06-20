@@ -1,0 +1,937 @@
+match_id,season,city,match_type,team1,team2,toss_winner,toss_decision,winner,result,result_margin,target_runs,target_overs
+335982,2007/08,Bangalore,League,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,140.0,223.0,20.0
+335983,2007/08,Chandigarh,League,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,33.0,241.0,20.0
+335984,2007/08,Delhi,League,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,wickets,9.0,130.0,20.0
+335985,2007/08,Mumbai,League,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,5.0,166.0,20.0
+335986,2007/08,Kolkata,League,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,5.0,111.0,20.0
+335987,2007/08,Jaipur,League,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,wickets,6.0,167.0,20.0
+335988,2007/08,Hyderabad,League,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,wickets,9.0,143.0,20.0
+335989,2007/08,Chennai,League,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,6.0,209.0,20.0
+335990,2007/08,Hyderabad,League,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,215.0,20.0
+335991,2007/08,Chandigarh,League,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,runs,66.0,183.0,20.0
+335992,2007/08,Bangalore,League,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,136.0,20.0
+335993,2007/08,Chennai,League,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,9.0,148.0,20.0
+335994,2007/08,Mumbai,League,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,10.0,155.0,20.0
+335995,2007/08,Chandigarh,League,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Punjab Kings,wickets,4.0,159.0,20.0
+335996,2007/08,Bangalore,League,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,13.0,179.0,20.0
+335997,2007/08,Kolkata,League,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,7.0,138.0,20.0
+335998,2007/08,Delhi,League,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,runs,10.0,192.0,20.0
+335999,2007/08,Hyderabad,League,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,7.0,165.0,20.0
+336000,2007/08,Jaipur,League,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,45.0,197.0,20.0
+336001,2007/08,Chennai,League,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,wickets,8.0,170.0,20.0
+336003,2007/08,Chandigarh,League,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,runs,9.0,179.0,20.0
+336034,2007/08,Bangalore,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,3.0,157.0,20.0
+336004,2007/08,Mumbai,League,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,29.0,163.0,20.0
+336005,2007/08,Jaipur,League,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,8.0,110.0,20.0
+336006,2007/08,Bangalore,League,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,6.0,127.0,20.0
+336007,2007/08,Chennai,League,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,7.0,145.0,20.0
+336008,2007/08,Mumbai,League,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,7.0,104.0,20.0
+336009,2007/08,Delhi,League,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,188.0,20.0
+336011,2007/08,Jaipur,League,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,wickets,8.0,141.0,20.0
+336013,2007/08,Chennai,League,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,runs,18.0,182.0,20.0
+336014,2007/08,Hyderabad,League,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,23.0,205.0,20.0
+336015,2007/08,Jaipur,League,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,157.0,20.0
+336016,2007/08,Chandigarh,League,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Punjab Kings,wickets,9.0,144.0,20.0
+336017,2007/08,Kolkata,League,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,23.0,134.0,20.0
+336018,2007/08,Mumbai,League,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,9.0,157.0,20.0
+336020,2007/08,Delhi,League,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,runs,12.0,195.0,20.0
+336021,2007/08,Mumbai,League,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,8.0,68.0,20.0
+336023,2007/08,Jaipur,League,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,runs,65.0,198.0,20.0
+336024,2007/08,Hyderabad,League,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,runs,25.0,179.0,20.0
+336026,2007/08,Bangalore,League,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,5.0,155.0,20.0
+336027,2007/08,Kolkata,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,148.0,20.0
+336028,2007/08,Mumbai,League,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,runs,1.0,190.0,20.0
+336029,2007/08,Chennai,League,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,14.0,127.0,20.0
+336031,2007/08,Chandigarh,League,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,wickets,6.0,176.0,20.0
+336032,2007/08,Delhi,League,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,wickets,5.0,177.0,20.0
+336033,2007/08,Chennai,League,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,10.0,212.0,20.0
+336002,2007/08,Hyderabad,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,wickets,5.0,166.0,20.0
+336035,2007/08,Kolkata,League,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,wickets,3.0,175.0,20.0
+336036,2007/08,Jaipur,League,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,5.0,146.0,20.0
+336037,2007/08,Hyderabad,League,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,7.0,148.0,20.0
+336019,2007/08,Chandigarh,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,runs,41.0,222.0,20.0
+336038,2007/08,Mumbai,Semi Final,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,runs,105.0,193.0,20.0
+336039,2007/08,Mumbai,Semi Final,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,wickets,9.0,113.0,20.0
+336040,2007/08,Mumbai,Final,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,164.0,20.0
+392181,2009,Cape Town,League,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,runs,19.0,166.0,20.0
+392182,2009,Cape Town,League,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,75.0,134.0,20.0
+392184,2009,Cape Town,League,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,wickets,8.0,102.0,20.0
+392185,2009,Port Elizabeth,League,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,92.0,180.0,20.0
+392188,2009,Cape Town,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,24.0,185.0,20.0
+392189,2009,Durban,League,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,9.0,190.0,20.0
+392190,2009,Cape Town,League,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,tie,,151.0,20.0
+392191,2009,Durban,League,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Punjab Kings,wickets,7.0,169.0,20.0
+392192,2009,Durban,League,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,12.0,169.0,20.0
+392194,2009,Port Elizabeth,League,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Delhi Capitals,wickets,6.0,150.0,20.0
+392195,2009,Cape Town,League,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,runs,27.0,140.0,20.0
+392196,2009,Durban,League,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6.0,166.0,20.0
+392197,2009,Port Elizabeth,League,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,92.0,188.0,20.0
+392198,2009,Centurion,League,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,wickets,5.0,144.0,20.0
+392199,2009,Durban,League,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bangalore,wickets,5.0,140.0,20.0
+392200,2009,Durban,League,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,runs,3.0,120.0,20.0
+392201,2009,Centurion,League,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6.0,149.0,20.0
+392202,2009,Centurion,League,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,38.0,165.0,20.0
+392203,2009,East London,League,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9.0,149.0,20.0
+392204,2009,Durban,League,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,8.0,146.0,20.0
+392205,2009,Port Elizabeth,League,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,3.0,142.0,20.0
+392206,2009,Johannesburg,League,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,18.0,164.0,20.0
+392207,2009,Port Elizabeth,League,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Punjab Kings,wickets,6.0,154.0,20.0
+392208,2009,Johannesburg,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,9.0,150.0,20.0
+392209,2009,East London,League,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,78.0,179.0,20.0
+392210,2009,Durban,League,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,runs,78.0,212.0,20.0
+392211,2009,Durban,League,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,wickets,9.0,155.0,20.0
+392212,2009,Centurion,League,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,19.0,146.0,20.0
+392213,2009,Centurion,League,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,106.0,20.0
+392215,2009,East London,League,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,wickets,7.0,117.0,20.0
+392216,2009,Kimberley,League,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,3.0,169.0,20.0
+392217,2009,Kimberley,League,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,7.0,141.0,20.0
+392218,2009,Port Elizabeth,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,16.0,158.0,20.0
+392219,2009,Johannesburg,League,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,wickets,7.0,124.0,20.0
+392220,2009,Kimberley,League,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,53.0,167.0,20.0
+392221,2009,Centurion,League,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6.0,174.0,20.0
+392222,2009,Centurion,League,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,wickets,8.0,120.0,20.0
+392223,2009,Durban,League,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,runs,12.0,174.0,20.0
+392224,2009,Durban,League,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bangalore,wickets,2.0,130.0,20.0
+392225,2009,Durban,League,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2.0,146.0,20.0
+392226,2009,Bloemfontein,League,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,6.0,121.0,20.0
+392227,2009,Port Elizabeth,League,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,7.0,148.0,20.0
+392228,2009,Johannesburg,League,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6.0,161.0,20.0
+392229,2009,Johannesburg,League,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,runs,1.0,135.0,20.0
+392230,2009,Bloemfontein,League,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,runs,14.0,151.0,20.0
+392231,2009,Centurion,League,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,7.0,189.0,20.0
+392232,2009,Johannesburg,League,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,Royal Challengers Bangalore,wickets,7.0,135.0,20.0
+392233,2009,Durban,League,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4.0,102.0,20.0
+392234,2009,Durban,League,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,24.0,117.0,20.0
+392235,2009,Centurion,League,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,wickets,4.0,166.0,20.0
+392236,2009,Centurion,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,12.0,171.0,20.0
+392237,2009,Centurion,Semi Final,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6.0,154.0,20.0
+392238,2009,Johannesburg,Semi Final,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6.0,147.0,20.0
+392239,2009,Johannesburg,Final,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,6.0,144.0,20.0
+419106,2009/10,Mumbai,League,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,11.0,162.0,20.0
+419107,2009/10,Mumbai,League,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,4.0,213.0,20.0
+419108,2009/10,Chandigarh,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,5.0,143.0,20.0
+419109,2009/10,Kolkata,League,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,136.0,20.0
+419110,2009/10,Chennai,League,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,31.0,191.0,20.0
+419111,2009/10,Ahmedabad,League,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6.0,142.0,20.0
+419112,2009/10,Bangalore,League,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Royal Challengers Bangalore,wickets,8.0,204.0,20.0
+419113,2009/10,Kolkata,League,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,55.0,165.0,20.0
+419114,2009/10,Delhi,League,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,runs,98.0,219.0,20.0
+419115,2009/10,Bangalore,League,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10.0,93.0,20.0
+419116,2009/10,Delhi,League,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,wickets,5.0,186.0,20.0
+419117,2009/10,Cuttack,League,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,runs,6.0,171.0,20.0
+419118,2009/10,Ahmedabad,League,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,34.0,169.0,20.0
+419119,2009/10,Mumbai,League,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,7.0,152.0,20.0
+419120,2009/10,Cuttack,League,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,10.0,172.0,20.0
+419121,2009/10,Chennai,League,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,tie,,137.0,20.0
+419122,2009/10,Mumbai,League,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,wickets,7.0,156.0,20.0
+419123,2009/10,Bangalore,League,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,36.0,172.0,20.0
+419124,2009/10,Chandigarh,League,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,runs,31.0,184.0,20.0
+419125,2009/10,Mumbai,League,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,181.0,20.0
+419128,2009/10,Bangalore,League,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Delhi Capitals,runs,17.0,184.0,20.0
+419126,2009/10,Ahmedabad,League,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,8.0,149.0,20.0
+419127,2009/10,Chandigarh,League,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,39.0,184.0,20.0
+419129,2009/10,Ahmedabad,League,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,runs,17.0,178.0,20.0
+419130,2009/10,Mumbai,League,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,runs,41.0,173.0,20.0
+419131,2009/10,Delhi,League,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,runs,40.0,178.0,20.0
+419132,2009/10,Mumbai,League,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,wickets,4.0,164.0,20.0
+419133,2009/10,Chennai,League,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,5.0,162.0,20.0
+419134,2009/10,Delhi,League,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,runs,67.0,189.0,20.0
+419135,2009/10,Kolkata,League,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,24.0,182.0,20.0
+419136,2009/10,Chandigarh,League,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Royal Challengers Bangalore,wickets,6.0,182.0,20.0
+419137,2009/10,Chennai,League,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,23.0,247.0,20.0
+419138,2009/10,Mumbai,League,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,63.0,179.0,20.0
+419139,2009/10,Kolkata,League,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings,wickets,8.0,201.0,20.0
+419140,2009/10,Delhi,League,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,runs,37.0,185.0,20.0
+419141,2009/10,Nagpur,League,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2.0,160.0,20.0
+419142,2009/10,Chennai,League,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,24.0,166.0,20.0
+419143,2009/10,Jaipur,League,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,wickets,9.0,154.0,20.0
+419144,2009/10,Kolkata,League,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,14.0,182.0,20.0
+419145,2009/10,Bangalore,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,7.0,185.0,20.0
+419146,2009/10,Chandigarh,League,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Punjab Kings,wickets,6.0,155.0,20.0
+419147,2009/10,Nagpur,League,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,wickets,6.0,139.0,20.0
+419148,2009/10,Bangalore,League,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7.0,161.0,20.0
+419149,2009/10,Delhi,League,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,wickets,7.0,112.0,20.0
+419150,2009/10,Jaipur,League,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,runs,37.0,175.0,20.0
+419151,2009/10,Nagpur,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,13.0,152.0,20.0
+419152,2009/10,Mumbai,League,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,39.0,184.0,20.0
+419153,2009/10,Chennai,League,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,9.0,140.0,20.0
+419154,2009/10,Jaipur,League,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,5.0,131.0,20.0
+419155,2009/10,Chennai,League,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,wickets,6.0,113.0,20.0
+419156,2009/10,Dharamsala,League,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,175.0,20.0
+419157,2009/10,Bangalore,League,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,57.0,192.0,20.0
+419158,2009/10,Kolkata,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,8.0,133.0,20.0
+419159,2009/10,Dharamsala,League,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,193.0,20.0
+419160,2009/10,Delhi,League,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,11.0,146.0,20.0
+419161,2009/10,Kolkata,League,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Kolkata Knight Riders,wickets,9.0,134.0,20.0
+419162,2009/10,Mumbai,Semi Final,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,35.0,185.0,20.0
+419163,2009/10,Mumbai,Semi Final,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,38.0,143.0,20.0
+419164,2009/10,Mumbai,3rd Place Play-Off,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,wickets,9.0,83.0,20.0
+419165,2009/10,Mumbai,Final,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,22.0,169.0,20.0
+501198,2011,Chennai,League,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,2.0,154.0,20.0
+501199,2011,Hyderabad,League,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8.0,138.0,20.0
+501201,2011,Delhi,League,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,8.0,96.0,20.0
+501203,2011,Kolkata,League,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,9.0,164.0,20.0
+501204,2011,Jaipur,League,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,wickets,6.0,152.0,20.0
+501205,2011,Bangalore,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9.0,141.0,20.0
+501206,2011,Chandigarh,League,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,wickets,6.0,189.0,20.0
+501208,2011,Hyderabad,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,33.0,176.0,20.0
+501209,2011,Jaipur,League,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9.0,160.0,20.0
+501211,2011,Chennai,League,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,21.0,184.0,20.0
+501212,2011,Hyderabad,League,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,8.0,166.0,20.0
+501214,2011,Kolkata,League,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8.0,82.0,20.0
+501216,2011,Delhi,League,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,16.0,169.0,20.0
+501220,2011,Chandigarh,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,runs,48.0,196.0,20.0
+501221,2011,Mumbai,League,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,8.0,165.0,20.0
+501222,2011,Kolkata,League,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9.0,172.0,20.0
+501223,2011,Delhi,League,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,runs,29.0,232.0,20.0
+501224,2011,Hyderabad,League,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,runs,37.0,173.0,20.0
+501227,2011,Delhi,League,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,3.0,161.0,20.0
+501230,2011,Delhi,League,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,runs,17.0,149.0,20.0
+501231,2011,Jaipur,League,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,95.0,20.0
+501234,2011,Kolkata,League,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8.0,120.0,20.0
+501236,2011,Chennai,League,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,19.0,166.0,20.0
+501237,2011,Mumbai,League,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,runs,23.0,160.0,20.0
+501239,2011,Hyderabad,League,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,20.0,170.0,20.0
+501240,2011,Chennai,League,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,8.0,148.0,20.0
+501243,2011,Hyderabad,League,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4.0,176.0,20.0
+501244,2011,Bangalore,League,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,runs,85.0,206.0,20.0
+501246,2011,Mumbai,League,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,32.0,179.0,20.0
+501249,2011,Jaipur,League,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,63.0,197.0,20.0
+501251,2011,Chandigarh,League,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,runs,76.0,164.0,20.0
+501252,2011,Jaipur,League,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9.0,147.0,20.0
+501253,2011,Chennai,League,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,18.0,177.0,20.0
+501256,2011,Mumbai,League,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,10.0,136.0,20.0
+501257,2011,Dharamsala,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,runs,29.0,171.0,20.0
+501260,2011,Dharamsala,League,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Punjab Kings,runs,111.0,233.0,20.0
+501263,2011,Mumbai,League,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,10.0,134.0,20.0
+501264,2011,Dharamsala,League,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,runs,82.0,199.0,20.0
+501266,2011,Bangalore,League,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8.0,129.0,20.0
+501267,2011,Kolkata,League,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,176.0,20.0
+501268,2011,Mumbai,Qualifier 1,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,176.0,20.0
+501269,2011,Mumbai,Elimination Final,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,4.0,148.0,20.0
+501270,2011,Chennai,Qualifier 2,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,43.0,186.0,20.0
+501271,2011,Chennai,Final,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,58.0,206.0,20.0
+548306,2012,Chennai,League,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8.0,113.0,20.0
+548309,2012,Jaipur,League,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,runs,31.0,192.0,20.0
+548310,2012,Bangalore,League,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,runs,20.0,158.0,20.0
+548311,2012,Visakhapatnam,League,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,74.0,194.0,20.0
+548312,2012,Jaipur,League,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,22.0,165.0,20.0
+548314,2012,Visakhapatnam,League,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,5.0,139.0,20.0
+548315,2012,Bangalore,League,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,42.0,166.0,20.0
+548316,2012,Delhi,League,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Delhi Capitals,wickets,8.0,111.0,20.0
+548317,2012,Mumbai,League,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,27.0,198.0,20.0
+548318,2012,Chennai,League,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,5.0,206.0,20.0
+548320,2012,Kolkata,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,5.0,132.0,20.0
+548323,2012,Kolkata,League,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,runs,2.0,135.0,20.0
+548324,2012,Bangalore,League,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,59.0,196.0,20.0
+548325,2012,Mumbai,League,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7.0,93.0,20.0
+548326,2012,Jaipur,League,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,5.0,197.0,20.0
+548328,2012,Chandigarh,League,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders,wickets,8.0,125.0,20.0
+548321,2012,Delhi,League,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,wickets,5.0,158.0,20.0
+548331,2012,Chandigarh,League,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5.0,164.0,20.0
+548332,2012,Chennai,League,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,7.0,147.0,20.0
+548334,2012,Mumbai,League,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,wickets,6.0,164.0,20.0
+548335,2012,Cuttack,League,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,127.0,20.0
+548336,2012,Jaipur,League,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,runs,46.0,190.0,20.0
+548339,2012,Chandigarh,League,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,wickets,4.0,169.0,20.0
+548342,2012,Delhi,League,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,37.0,208.0,20.0
+548343,2012,Chennai,League,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,runs,7.0,157.0,20.0
+548344,2012,Kolkata,League,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,47.0,191.0,20.0
+548345,2012,Delhi,League,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,runs,1.0,153.0,20.0
+548346,2012,Mumbai,League,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,wickets,5.0,101.0,20.0
+548347,2012,Chennai,League,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,5.0,140.0,20.0
+548349,2012,Jaipur,League,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,wickets,6.0,142.0,20.0
+548350,2012,Bangalore,League,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,4.0,159.0,20.0
+548352,2012,Chennai,League,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,10.0,161.0,20.0
+548354,2012,Chandigarh,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,43.0,178.0,20.0
+548355,2012,Mumbai,League,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,2.0,174.0,20.0
+548356,2012,Bangalore,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5.0,182.0,20.0
+548357,2012,Delhi,League,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,wickets,6.0,154.0,20.0
+548359,2012,Hyderabad,League,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,runs,25.0,171.0,20.0
+548360,2012,Mumbai,League,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9.0,142.0,20.0
+548329,2012,Hyderabad,League,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,wickets,9.0,188.0,20.0
+548361,2012,Jaipur,League,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,127.0,20.0
+548363,2012,Kolkata,League,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,27.0,183.0,20.0
+548364,2012,Chennai,League,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,wickets,9.0,115.0,20.0
+548366,2012,Chandigarh,League,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,wickets,4.0,191.0,20.0
+548367,2012,Bangalore,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,172.0,20.0
+548368,2012,Kolkata,League,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,159.0,20.0
+548369,2012,Delhi,League,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,wickets,5.0,137.0,20.0
+548370,2012,Mumbai,League,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,runs,32.0,141.0,20.0
+548371,2012,Dharamsala,League,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,wickets,6.0,121.0,20.0
+548372,2012,Delhi,League,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,runs,21.0,216.0,20.0
+548373,2012,Hyderabad,League,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,5.0,127.0,20.0
+548374,2012,Dharamsala,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6.0,142.0,20.0
+548376,2012,Hyderabad,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,9.0,133.0,20.0
+548377,2012,Jaipur,League,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,wickets,10.0,163.0,20.0
+548378,2012,Pune,Qualifier 1,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,18.0,163.0,20.0
+548379,2012,Bangalore,Elimination Final,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,38.0,188.0,20.0
+548380,2012,Chennai,Qualifier 2,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,runs,86.0,223.0,20.0
+548381,2012,Chennai,Final,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,5.0,191.0,20.0
+597998,2013,Kolkata,League,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,129.0,20.0
+597999,2013,Bangalore,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,2.0,157.0,20.0
+598001,2013,Delhi,League,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,5.0,166.0,20.0
+598002,2013,Chennai,League,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9.0,149.0,20.0
+598004,2013,Hyderabad,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,tie,,131.0,20.0
+598005,2013,Jaipur,League,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,19.0,145.0,20.0
+598006,2013,Mumbai,League,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,44.0,210.0,20.0
+598048,2013,Bangalore,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,wickets,7.0,162.0,20.0
+598007,2013,Chandigarh,League,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,10.0,139.0,20.0
+598008,2013,Bangalore,League,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8.0,155.0,20.0
+598010,2013,Delhi,League,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,wickets,3.0,115.0,20.0
+598012,2013,Chennai,League,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,166.0,20.0
+598013,2013,Kolkata,League,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,48.0,181.0,20.0
+598014,2013,Jaipur,League,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,125.0,20.0
+598016,2013,Chandigarh,League,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,runs,4.0,158.0,20.0
+598017,2013,Bangalore,League,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,tie,,153.0,20.0
+598019,2013,Jaipur,League,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,runs,87.0,180.0,20.0
+598020,2013,Delhi,League,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,86.0,170.0,20.0
+598021,2013,Hyderabad,League,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Sunrisers Hyderabad,wickets,5.0,124.0,20.0
+598022,2013,Kolkata,League,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,4.0,120.0,20.0
+598023,2013,Bangalore,League,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7.0,118.0,20.0
+598024,2013,Delhi,League,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,wickets,9.0,162.0,20.0
+598026,2013,Chennai,League,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,5.0,186.0,20.0
+598059,2013,Delhi,League,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,5.0,121.0,20.0
+598029,2013,Kolkata,League,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,5.0,160.0,20.0
+598030,2013,Chennai,League,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,5.0,160.0,20.0
+598031,2013,Kolkata,League,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,wickets,6.0,150.0,20.0
+598032,2013,Jaipur,League,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,8.0,145.0,20.0
+598033,2013,Mumbai,League,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,runs,58.0,195.0,20.0
+598034,2013,Chennai,League,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,14.0,201.0,20.0
+598036,2013,Jaipur,League,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,wickets,4.0,172.0,20.0
+598037,2013,Mumbai,League,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,runs,4.0,175.0,20.0
+598039,2013,Hyderabad,League,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,7.0,130.0,20.0
+598040,2013,Raipur,League,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,wickets,7.0,137.0,20.0
+598041,2013,Chennai,League,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,15.0,187.0,20.0
+598043,2013,Kolkata,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,8.0,133.0,20.0
+598044,2013,Hyderabad,League,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,wickets,6.0,81.0,20.0
+598046,2013,Mumbai,League,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,60.0,140.0,20.0
+598064,2013,Chandigarh,League,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,wickets,6.0,191.0,20.0
+598049,2013,Jaipur,League,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,wickets,9.0,155.0,20.0
+598050,2013,Mumbai,League,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,runs,65.0,171.0,20.0
+598051,2013,Hyderabad,League,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,77.0,224.0,20.0
+598052,2013,Chandigarh,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8.0,146.0,20.0
+598054,2013,Delhi,League,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,runs,4.0,184.0,20.0
+598056,2013,Chandigarh,League,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,runs,30.0,151.0,20.0
+598057,2013,Ranchi,League,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,116.0,20.0
+598058,2013,Jaipur,League,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,5.0,142.0,20.0
+598060,2013,Mumbai,League,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,7.0,179.0,20.0
+598045,2013,Bangalore,League,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,7.0,175.0,20.0
+598062,2013,Chennai,League,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,33.0,169.0,20.0
+598063,2013,Mumbai,League,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,14.0,167.0,20.0
+598028,2013,Dharamsala,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,runs,7.0,172.0,20.0
+598065,2013,Hyderabad,League,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,23.0,137.0,20.0
+598066,2013,Dharamsala,League,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,runs,50.0,184.0,20.0
+598069,2013,Hyderabad,League,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,wickets,5.0,131.0,20.0
+598070,2013,Delhi,Qualifier 1,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,48.0,193.0,20.0
+598071,2013,Delhi,Eliminator,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,4.0,133.0,20.0
+598072,2013,Kolkata,Qualifier 2,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,wickets,4.0,166.0,20.0
+598073,2013,Kolkata,Final,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,23.0,149.0,20.0
+729279,2014,Abu Dhabi,League,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,41.0,164.0,20.0
+729281,2014,,League,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8.0,146.0,20.0
+729283,2014,Abu Dhabi,League,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,wickets,6.0,206.0,20.0
+729285,2014,Abu Dhabi,League,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4.0,134.0,20.0
+729287,2014,,League,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7.0,116.0,20.0
+729289,2014,,League,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,wickets,4.0,167.0,20.0
+729291,2014,,League,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,7.0,192.0,20.0
+729293,2014,Abu Dhabi,League,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,93.0,178.0,20.0
+729295,2014,,League,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,runs,72.0,194.0,20.0
+729297,2014,,League,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,7.0,141.0,20.0
+729299,2014,,League,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,2.0,151.0,20.0
+729301,2014,,League,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,4.0,185.0,20.0
+729303,2014,,League,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,7.0,142.0,20.0
+729305,2014,Abu Dhabi,League,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,71.0,20.0
+729307,2014,Abu Dhabi,League,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,runs,23.0,133.0,20.0
+729309,2014,,League,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,wickets,6.0,126.0,20.0
+729311,2014,,League,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,5.0,146.0,20.0
+729313,2014,,League,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,wickets,5.0,125.0,20.0
+729315,2014,Abu Dhabi,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,tie,,153.0,20.0
+729317,2014,,League,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,15.0,173.0,20.0
+733973,2014,Mumbai,League,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,wickets,5.0,169.0,20.0
+733975,2014,Delhi,League,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,153.0,20.0
+733977,2014,Bangalore,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4.0,156.0,20.0
+733979,2014,Ahmedabad,League,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,10.0,171.0,20.0
+733981,2014,Delhi,League,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8.0,179.0,20.0
+733983,2014,Mumbai,League,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,19.0,188.0,20.0
+733985,2014,Delhi,League,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,wickets,8.0,161.0,20.0
+733987,2014,Cuttack,League,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,runs,44.0,232.0,20.0
+733989,2014,Ahmedabad,League,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,runs,32.0,135.0,20.0
+733991,2014,Bangalore,League,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,runs,32.0,199.0,20.0
+733995,2014,Mumbai,League,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,158.0,20.0
+733997,2014,Cuttack,League,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9.0,150.0,20.0
+733999,2014,Bangalore,League,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,wickets,5.0,191.0,20.0
+734001,2014,Hyderabad,League,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,7.0,158.0,20.0
+734003,2014,Ranchi,League,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,5.0,149.0,20.0
+734005,2014,Bangalore,League,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,runs,16.0,187.0,20.0
+734007,2014,Hyderabad,League,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,6.0,206.0,20.0
+734009,2014,Cuttack,League,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,142.0,20.0
+734011,2014,Ahmedabad,League,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,runs,62.0,202.0,20.0
+734013,2014,Ranchi,League,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,wickets,5.0,139.0,20.0
+734015,2014,Hyderabad,League,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,7.0,143.0,20.0
+734017,2014,Ahmedabad,League,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,25.0,179.0,20.0
+734019,2014,Delhi,League,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,4.0,165.0,20.0
+734021,2014,Hyderabad,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,wickets,7.0,161.0,20.0
+734023,2014,Kolkata,League,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8.0,155.0,20.0
+734025,2014,Chandigarh,League,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,7.0,157.0,20.0
+734027,2014,Kolkata,League,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,30.0,196.0,20.0
+734029,2014,Ranchi,League,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6.0,186.0,20.0
+734031,2014,Mumbai,League,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,15.0,174.0,20.0
+734033,2014,Chandigarh,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,runs,16.0,180.0,20.0
+734035,2014,Bangalore,League,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8.0,155.0,20.0
+734037,2014,Kolkata,League,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4.0,161.0,20.0
+734039,2014,Chandigarh,League,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,wickets,7.0,116.0,20.0
+734041,2014,Mumbai,League,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,5.0,190.0,20.0
+734043,2014,Kolkata,Qualifier 1,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,runs,28.0,164.0,20.0
+734045,2014,Mumbai,Eliminator,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,wickets,7.0,174.0,20.0
+734047,2014,Mumbai,Qualifier 2,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,runs,24.0,227.0,20.0
+734049,2014,Bangalore,Final,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3.0,200.0,20.0
+829705,2015,Kolkata,League,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,169.0,20.0
+829707,2015,Chennai,League,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,1.0,151.0,20.0
+829709,2015,Pune,League,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,runs,26.0,163.0,20.0
+829711,2015,Chennai,League,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,45.0,210.0,20.0
+829713,2015,Kolkata,League,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,3.0,178.0,20.0
+829715,2015,Delhi,League,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,185.0,20.0
+829717,2015,Mumbai,League,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,runs,18.0,178.0,20.0
+829719,2015,Bangalore,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8.0,167.0,20.0
+829721,2015,Ahmedabad,League,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,wickets,7.0,165.0,20.0
+829725,2015,Pune,League,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,wickets,5.0,166.0,20.0
+829727,2015,Visakhapatnam,League,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,128.0,20.0
+829729,2015,Mumbai,League,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,wickets,6.0,184.0,20.0
+829731,2015,Visakhapatnam,League,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,runs,4.0,168.0,20.0
+829733,2015,Pune,League,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4.0,156.0,20.0
+829735,2015,Ahmedabad,League,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,8.0,157.0,20.0
+829737,2015,Bangalore,League,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,18.0,210.0,20.0
+829739,2015,Delhi,League,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,147.0,20.0
+829741,2015,Ahmedabad,League,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,tie,,192.0,20.0
+829745,2015,Bangalore,League,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,runs,27.0,182.0,20.0
+829747,2015,Delhi,League,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,37.0,191.0,20.0
+829749,2015,Ahmedabad,League,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9.0,131.0,20.0
+829751,2015,Mumbai,League,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,20.0,158.0,20.0
+829753,2015,Chennai,League,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,97.0,193.0,20.0
+829757,2015,Delhi,League,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10.0,96.0,20.0
+829759,2015,Chandigarh,League,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,runs,20.0,151.0,20.0
+829765,2015,Chennai,League,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,2.0,135.0,20.0
+829723,2015,Kolkata,League,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,166.0,20.0
+829767,2015,Delhi,League,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,wickets,9.0,119.0,20.0
+829769,2015,Mumbai,League,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,8.0,188.0,20.0
+829773,2015,Hyderabad,League,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,runs,22.0,193.0,20.0
+829775,2015,Chandigarh,League,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,23.0,173.0,20.0
+829777,2015,Mumbai,League,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,runs,14.0,190.0,20.0
+829779,2015,Chennai,League,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,24.0,149.0,20.0
+829781,2015,Kolkata,League,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,35.0,168.0,20.0
+829783,2015,Mumbai,League,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Mumbai Indians,wickets,5.0,153.0,20.0
+829785,2015,Bangalore,League,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,runs,138.0,227.0,20.0
+829761,2015,Kolkata,League,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,13.0,172.0,20.0
+829787,2015,Mumbai,League,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,runs,7.0,202.0,20.0
+829789,2015,Chennai,League,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,wickets,6.0,159.0,20.0
+829791,2015,Kolkata,League,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,wickets,1.0,184.0,20.0
+829793,2015,Raipur,League,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,6.0,164.0,20.0
+829795,2015,Mumbai,League,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,39.0,236.0,20.0
+829797,2015,Chennai,League,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,12.0,158.0,20.0
+829799,2015,Hyderabad,League,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,5.0,186.0,20.0
+829801,2015,Raipur,League,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Delhi Capitals,wickets,6.0,120.0,20.0
+829805,2015,Mumbai,League,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,5.0,172.0,20.0
+829809,2015,Chandigarh,League,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,wickets,7.0,131.0,20.0
+829811,2015,Mumbai,League,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,9.0,200.0,20.0
+829815,2015,Hyderabad,League,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,9.0,114.0,20.0
+829817,2015,Mumbai,Qualifier 1,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,25.0,188.0,20.0
+829819,2015,Pune,Eliminator,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,71.0,181.0,20.0
+829821,2015,Ranchi,Qualifier 2,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,3.0,140.0,20.0
+829823,2015,Kolkata,Final,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,41.0,203.0,20.0
+980903,2016,Kolkata,League,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9.0,99.0,20.0
+980907,2016,Bangalore,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,45.0,228.0,20.0
+980909,2016,Kolkata,League,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6.0,188.0,20.0
+980913,2016,Delhi,League,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,wickets,8.0,112.0,20.0
+980915,2016,Hyderabad,League,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,8.0,143.0,20.0
+980921,2016,Bangalore,League,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7.0,192.0,20.0
+980923,2016,Hyderabad,League,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,7.0,143.0,20.0
+980925,2016,Chandigarh,League,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,139.0,20.0
+980927,2016,Mumbai,League,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,wickets,6.0,171.0,20.0
+980933,2016,Delhi,League,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,10.0,165.0,20.0
+980935,2016,Hyderabad,League,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,144.0,20.0
+980941,2016,Chandigarh,League,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,runs,25.0,190.0,20.0
+980947,2016,Mumbai,League,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,6.0,175.0,20.0
+980951,2016,Delhi,League,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,runs,27.0,187.0,20.0
+980953,2016,Hyderabad,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,15.0,195.0,20.0
+980959,2016,Bangalore,League,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,186.0,20.0
+980963,2016,Kolkata,League,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,runs,7.0,165.0,20.0
+980971,2016,Chandigarh,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,runs,9.0,182.0,20.0
+980973,2016,Visakhapatnam,League,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,85.0,178.0,20.0
+980977,2016,Chandigarh,League,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,runs,1.0,176.0,20.0
+980981,2016,Bangalore,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6.0,152.0,20.0
+980983,2016,Hyderabad,League,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7.0,147.0,20.0
+980985,2016,Visakhapatnam,League,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,wickets,7.0,125.0,20.0
+980991,2016,Chandigarh,League,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,wickets,7.0,180.0,20.0
+980993,2016,Visakhapatnam,League,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,80.0,207.0,20.0
+980995,2016,Kolkata,League,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9.0,184.0,20.0
+981003,2016,Raipur,League,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,wickets,6.0,159.0,20.0
+981009,2016,Kolkata,League,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,22.0,172.0,20.0
+981011,2016,Raipur,League,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6.0,139.0,20.0
+981015,2016,Delhi,Elimination Final,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,22.0,163.0,20.0
+981019,2016,Bangalore,Final,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,8.0,209.0,20.0
+1082591,2017,Hyderabad,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,35.0,208.0,20.0
+1082595,2017,Bengaluru,League,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,15.0,158.0,20.0
+1082597,2017,Mumbai,League,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,4.0,179.0,20.0
+1082598,2017,Indore,League,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Punjab Kings,wickets,8.0,149.0,20.0
+1082600,2017,Mumbai,League,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,wickets,4.0,159.0,20.0
+1082601,2017,Kolkata,League,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8.0,171.0,20.0
+1082602,2017,Bangalore,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,4.0,143.0,20.0
+1082604,2017,Kolkata,League,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,17.0,173.0,20.0
+1082605,2017,Delhi,League,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,runs,51.0,189.0,20.0
+1082608,2017,Delhi,League,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,wickets,4.0,169.0,20.0
+1082609,2017,Hyderabad,League,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,runs,5.0,160.0,20.0
+1082611,2017,Hyderabad,League,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,15.0,192.0,20.0
+1082612,2017,Indore,League,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8.0,199.0,20.0
+1082614,2017,Mumbai,League,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,14.0,143.0,20.0
+1082617,2017,Kolkata,League,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,82.0,132.0,20.0
+1082622,2017,Kolkata,League,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,161.0,20.0
+1082623,2017,Chandigarh,League,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,runs,26.0,208.0,20.0
+1082626,2017,Chandigarh,League,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,wickets,10.0,68.0,20.0
+1082627,2017,Hyderabad,League,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,48.0,210.0,20.0
+1082628,2017,Mumbai,League,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,wickets,5.0,163.0,20.0
+1082630,2017,Delhi,League,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,wickets,6.0,186.0,20.0
+1082633,2017,Bangalore,League,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,runs,19.0,139.0,20.0
+1082635,2017,Delhi,League,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,runs,146.0,213.0,20.0
+1082636,2017,Bangalore,League,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,159.0,20.0
+1082638,2017,Hyderabad,League,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,7.0,139.0,20.0
+1082639,2017,Chandigarh,League,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,runs,14.0,168.0,20.0
+1082641,2017,Mumbai,League,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,runs,7.0,231.0,20.0
+1082644,2017,Kolkata,League,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,9.0,174.0,20.0
+1082646,2017,Delhi,League,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,10.0,162.0,20.0
+1082649,2017,Bangalore,Qualifier 2,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,6.0,108.0,20.0
+1136561,2018,Mumbai,League,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,1.0,166.0,20.0
+1136562,2018,Chandigarh,League,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,6.0,167.0,20.0
+1136563,2018,Kolkata,League,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4.0,177.0,20.0
+1136564,2018,Hyderabad,League,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9.0,126.0,20.0
+1136565,2018,Chennai,League,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,203.0,20.0
+1136567,2018,Hyderabad,League,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,1.0,148.0,20.0
+1136568,2018,Bengaluru,League,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4.0,156.0,20.0
+1136569,2018,Mumbai,League,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7.0,195.0,20.0
+1136570,2018,Kolkata,League,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,139.0,20.0
+1136571,2018,Bengaluru,League,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,runs,19.0,218.0,20.0
+1136572,2018,Chandigarh,League,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,runs,4.0,198.0,20.0
+1136573,2018,Kolkata,League,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,runs,71.0,201.0,20.0
+1136574,2018,Mumbai,League,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,46.0,214.0,20.0
+1136575,2018,Jaipur,League,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,161.0,20.0
+1136576,2018,Chandigarh,League,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,runs,15.0,194.0,20.0
+1136577,2018,Pune,League,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,64.0,205.0,20.0
+1136579,2018,Bengaluru,League,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6.0,175.0,20.0
+1136580,2018,Hyderabad,League,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,runs,4.0,183.0,20.0
+1136581,2018,Jaipur,League,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,3.0,168.0,20.0
+1136582,2018,Delhi,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,runs,4.0,144.0,20.0
+1136583,2018,Mumbai,League,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,runs,31.0,119.0,20.0
+1136584,2018,Bengaluru,League,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,206.0,20.0
+1136585,2018,Hyderabad,League,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,runs,13.0,133.0,20.0
+1136586,2018,Delhi,League,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,runs,55.0,220.0,20.0
+1136587,2018,Pune,League,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8.0,170.0,20.0
+1136588,2018,Jaipur,League,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,11.0,152.0,20.0
+1136589,2018,Bengaluru,League,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,176.0,20.0
+1136590,2018,Pune,League,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,13.0,212.0,20.0
+1136591,2018,Bengaluru,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,14.0,168.0,20.0
+1136593,2018,Kolkata,League,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,178.0,20.0
+1136594,2018,Indore,League,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6.0,175.0,20.0
+1136595,2018,Pune,League,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,128.0,20.0
+1136596,2018,Hyderabad,League,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,wickets,7.0,164.0,20.0
+1136597,2018,Mumbai,League,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,13.0,182.0,20.0
+1136598,2018,Indore,League,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,6.0,153.0,20.0
+1136599,2018,Hyderabad,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,5.0,147.0,20.0
+1136600,2018,Jaipur,League,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,runs,15.0,159.0,20.0
+1136601,2018,Kolkata,League,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,102.0,211.0,20.0
+1136602,2018,Delhi,League,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad,wickets,9.0,188.0,20.0
+1136603,2018,Jaipur,League,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,wickets,4.0,177.0,20.0
+1136604,2018,Indore,League,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,runs,31.0,246.0,20.0
+1136605,2018,Delhi,League,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5.0,182.0,20.0
+1136606,2018,Pune,League,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8.0,180.0,20.0
+1136607,2018,Mumbai,League,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,169.0,20.0
+1136608,2018,Indore,League,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10.0,89.0,20.0
+1136609,2018,Kolkata,League,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,143.0,20.0
+1136610,2018,Mumbai,League,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,runs,3.0,187.0,20.0
+1136611,2018,Bengaluru,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,14.0,219.0,20.0
+1136612,2018,Delhi,League,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,runs,34.0,163.0,20.0
+1136613,2018,Jaipur,League,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,runs,30.0,165.0,20.0
+1136614,2018,Hyderabad,League,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,5.0,173.0,20.0
+1136615,2018,Delhi,League,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Delhi Capitals,runs,11.0,175.0,20.0
+1136616,2018,Pune,League,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,154.0,20.0
+1136617,2018,Mumbai,Qualifier 1,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,2.0,140.0,20.0
+1136618,2018,Kolkata,Eliminator,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,25.0,170.0,20.0
+1136619,2018,Kolkata,Qualifier 2,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,14.0,175.0,20.0
+1136620,2018,Mumbai,Final,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8.0,179.0,20.0
+1175356,2019,Chennai,League,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,7.0,71.0,20.0
+1175357,2019,Kolkata,League,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,182.0,20.0
+1175358,2019,Mumbai,League,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,37.0,214.0,20.0
+1175359,2019,Jaipur,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,runs,14.0,185.0,20.0
+1175360,2019,Delhi,League,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,wickets,6.0,148.0,20.0
+1175361,2019,Kolkata,League,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,runs,28.0,219.0,20.0
+1175362,2019,Bengaluru,League,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,6.0,188.0,20.0
+1175363,2019,Hyderabad,League,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,5.0,199.0,20.0
+1175364,2019,Chandigarh,League,Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,8.0,177.0,20.0
+1175365,2019,Delhi,League,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,tie,,186.0,20.0
+1175366,2019,Hyderabad,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,118.0,232.0,20.0
+1175367,2019,Chennai,League,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,8.0,176.0,20.0
+1175368,2019,Chandigarh,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,runs,14.0,167.0,20.0
+1175369,2019,Jaipur,League,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,159.0,20.0
+1175370,2019,Mumbai,League,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,37.0,171.0,20.0
+1175371,2019,Delhi,League,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,130.0,20.0
+1175372,2019,Bengaluru,League,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,206.0,20.0
+1178393,2019,Chennai,League,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,22.0,161.0,20.0
+1178394,2019,Hyderabad,League,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,runs,40.0,137.0,20.0
+1178395,2019,Bengaluru,League,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4.0,150.0,20.0
+1178396,2019,Jaipur,League,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8.0,140.0,20.0
+1178397,2019,Chandigarh,League,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,6.0,151.0,20.0
+1178398,2019,Chennai,League,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,7.0,109.0,20.0
+1178399,2019,Mumbai,League,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,3.0,198.0,20.0
+1178400,2019,Jaipur,League,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,152.0,20.0
+1178401,2019,Kolkata,League,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7.0,179.0,20.0
+1178402,2019,Mumbai,League,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4.0,188.0,20.0
+1178403,2019,Chandigarh,League,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8.0,174.0,20.0
+1178404,2019,Kolkata,League,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,162.0,20.0
+1178405,2019,Hyderabad,League,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,runs,39.0,156.0,20.0
+1178406,2019,Mumbai,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,172.0,20.0
+1178407,2019,Chandigarh,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,runs,12.0,183.0,20.0
+1178408,2019,Hyderabad,League,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Sunrisers Hyderabad,wickets,6.0,133.0,20.0
+1178409,2019,Delhi,League,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,40.0,169.0,20.0
+1178410,2019,Kolkata,League,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bangalore,runs,10.0,214.0,20.0
+1178411,2019,Jaipur,League,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,5.0,162.0,20.0
+1178412,2019,Delhi,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,5.0,164.0,20.0
+1178413,2019,Hyderabad,League,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9.0,160.0,20.0
+1178414,2019,Bengaluru,League,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,1.0,162.0,20.0
+1178415,2019,Jaipur,League,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6.0,192.0,20.0
+1178416,2019,Chennai,League,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,176.0,20.0
+1178417,2019,Bengaluru,League,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,runs,17.0,203.0,20.0
+1178418,2019,Kolkata,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,176.0,20.0
+1178419,2019,Chennai,League,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,46.0,156.0,20.0
+1178420,2019,Jaipur,League,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,161.0,20.0
+1178421,2019,Delhi,League,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,runs,16.0,188.0,20.0
+1178422,2019,Kolkata,League,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,runs,34.0,233.0,20.0
+1178423,2019,Hyderabad,League,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,runs,45.0,213.0,20.0
+1178425,2019,Chennai,League,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,80.0,180.0,20.0
+1178426,2019,Mumbai,League,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,tie,,163.0,20.0
+1178427,2019,Chandigarh,League,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,184.0,20.0
+1178428,2019,Delhi,League,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,wickets,5.0,116.0,20.0
+1178429,2019,Bengaluru,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4.0,176.0,20.0
+1178430,2019,Chandigarh,League,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,6.0,171.0,20.0
+1178431,2019,Mumbai,League,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9.0,134.0,20.0
+1181764,2019,Chennai,Qualifier 1,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,wickets,6.0,132.0,20.0
+1181766,2019,Visakhapatnam,Eliminator,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,2.0,163.0,20.0
+1181767,2019,Visakhapatnam,Qualifier 2,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,148.0,20.0
+1181768,2019,Hyderabad,Final,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,1.0,150.0,20.0
+1216492,2020/21,Abu Dhabi,League,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5.0,163.0,20.0
+1216493,2020/21,,League,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,tie,,158.0,20.0
+1216534,2020/21,,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,10.0,164.0,20.0
+1216496,2020/21,,League,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,runs,16.0,217.0,20.0
+1216508,2020/21,Abu Dhabi,League,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,49.0,196.0,20.0
+1216510,2020/21,,League,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,runs,97.0,207.0,20.0
+1216539,2020/21,,League,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,runs,44.0,176.0,20.0
+1216545,2020/21,Abu Dhabi,League,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,7.0,143.0,20.0
+1216527,2020/21,,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4.0,224.0,20.0
+1216547,2020/21,,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,tie,,202.0,20.0
+1216532,2020/21,Abu Dhabi,League,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,15.0,163.0,20.0
+1216504,2020/21,,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,37.0,175.0,20.0
+1216503,2020/21,Abu Dhabi,League,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,runs,48.0,192.0,20.0
+1216516,2020/21,,League,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,7.0,165.0,20.0
+1216514,2020/21,Abu Dhabi,League,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,8.0,155.0,20.0
+1216515,2020/21,,League,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,runs,18.0,229.0,20.0
+1216513,2020/21,,League,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,wickets,10.0,179.0,20.0
+1216538,2020/21,,League,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,34.0,209.0,20.0
+1216519,2020/21,,League,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,runs,59.0,197.0,20.0
+1216511,2020/21,Abu Dhabi,League,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,57.0,194.0,20.0
+1216501,2020/21,Abu Dhabi,League,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,10.0,168.0,20.0
+1216542,2020/21,,League,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,69.0,202.0,20.0
+1216500,2020/21,,League,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,runs,46.0,185.0,20.0
+1216523,2020/21,Abu Dhabi,League,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,2.0,165.0,20.0
+1216525,2020/21,,League,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,37.0,170.0,20.0
+1216507,2020/21,,League,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,5.0,159.0,20.0
+1216529,2020/21,Abu Dhabi,League,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,5.0,163.0,20.0
+1216540,2020/21,,League,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,82.0,195.0,20.0
+1216528,2020/21,,League,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,20.0,168.0,20.0
+1216543,2020/21,,League,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,runs,13.0,162.0,20.0
+1216531,2020/21,,League,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Punjab Kings,wickets,8.0,172.0,20.0
+1216526,2020/21,Abu Dhabi,League,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,8.0,149.0,20.0
+1216509,2020/21,,League,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,wickets,5.0,180.0,20.0
+1216522,2020/21,,League,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,7.0,178.0,20.0
+1216512,2020/21,Abu Dhabi,League,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,tie,,164.0,20.0
+1216517,2020/21,,League,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,tie,,177.0,20.0
+1216533,2020/21,Abu Dhabi,League,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,wickets,7.0,126.0,20.0
+1216546,2020/21,,League,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,wickets,5.0,165.0,20.0
+1216494,2020/21,Abu Dhabi,League,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,wickets,8.0,85.0,20.0
+1216518,2020/21,,League,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8.0,155.0,20.0
+1216521,2020/21,,League,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,10.0,115.0,20.0
+1216497,2020/21,Abu Dhabi,League,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,runs,59.0,195.0,20.0
+1216498,2020/21,,League,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,runs,12.0,127.0,20.0
+1216541,2020/21,Abu Dhabi,League,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,8.0,196.0,20.0
+1216544,2020/21,,League,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,8.0,146.0,20.0
+1216520,2020/21,,League,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,8.0,150.0,20.0
+1216524,2020/21,,League,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,88.0,220.0,20.0
+1216499,2020/21,Abu Dhabi,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,165.0,20.0
+1216536,2020/21,,League,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,173.0,20.0
+1216537,2020/21,Abu Dhabi,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,186.0,20.0
+1216502,2020/21,,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5.0,121.0,20.0
+1216535,2020/21,,League,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9.0,111.0,20.0
+1216506,2020/21,Abu Dhabi,League,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,9.0,154.0,20.0
+1216530,2020/21,,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,60.0,192.0,20.0
+1216505,2020/21,Abu Dhabi,League,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6.0,153.0,20.0
+1216495,2020/21,,League,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,10.0,150.0,20.0
+1237177,2020/21,,Qualifier 1,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,57.0,201.0,20.0
+1237178,2020/21,Abu Dhabi,Eliminator,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6.0,132.0,20.0
+1237180,2020/21,Abu Dhabi,Qualifier 2,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,runs,17.0,190.0,20.0
+1237181,2020/21,,Final,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,5.0,157.0,20.0
+1254058,2021,Chennai,League,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,2.0,160.0,20.0
+1254059,2021,Mumbai,League,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7.0,189.0,20.0
+1254060,2021,Chennai,League,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,10.0,188.0,20.0
+1254061,2021,Mumbai,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,runs,4.0,222.0,20.0
+1254062,2021,Chennai,League,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,10.0,153.0,20.0
+1254063,2021,Chennai,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,6.0,150.0,20.0
+1254064,2021,Mumbai,League,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,148.0,20.0
+1254065,2021,Mumbai,League,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,107.0,20.0
+1254066,2021,Chennai,League,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,13.0,151.0,20.0
+1254067,2021,Chennai,League,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,38.0,205.0,20.0
+1254068,2021,Mumbai,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6.0,196.0,20.0
+1254069,2021,Mumbai,League,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,45.0,189.0,20.0
+1254070,2021,Chennai,League,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,wickets,6.0,138.0,20.0
+1254071,2021,Chennai,League,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,wickets,9.0,121.0,20.0
+1254072,2021,Mumbai,League,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,18.0,221.0,20.0
+1254073,2021,Mumbai,League,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10.0,178.0,20.0
+1254074,2021,Chennai,League,Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,9.0,132.0,20.0
+1254075,2021,Mumbai,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,134.0,20.0
+1254076,2021,Mumbai,League,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,69.0,192.0,20.0
+1254077,2021,Chennai,League,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,tie,,160.0,20.0
+1254078,2021,Ahmedabad,League,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,124.0,20.0
+1254079,2021,Ahmedabad,League,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,runs,1.0,172.0,20.0
+1254080,2021,Delhi,League,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,7.0,172.0,20.0
+1254081,2021,Delhi,League,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,7.0,172.0,20.0
+1254082,2021,Ahmedabad,League,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7.0,155.0,20.0
+1254083,2021,Ahmedabad,League,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,runs,34.0,180.0,20.0
+1254084,2021,Delhi,League,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,4.0,219.0,20.0
+1254085,2021,Delhi,League,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,runs,55.0,221.0,20.0
+1254086,2021,Ahmedabad,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7.0,167.0,20.0
+1254104,2021,Dubai,League,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,20.0,157.0,20.0
+1254087,2021,Abu Dhabi,League,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders,wickets,9.0,93.0,20.0
+1254111,2021,Dubai,League,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,runs,2.0,186.0,20.0
+1254105,2021,Dubai,League,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,wickets,8.0,135.0,20.0
+1254096,2021,Abu Dhabi,League,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,156.0,20.0
+1254113,2021,Sharjah,League,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,157.0,20.0
+1254097,2021,Abu Dhabi,League,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,runs,33.0,155.0,20.0
+1254107,2021,Sharjah,League,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,runs,5.0,126.0,20.0
+1254098,2021,Abu Dhabi,League,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,2.0,172.0,20.0
+1254108,2021,Dubai,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,54.0,166.0,20.0
+1254100,2021,Dubai,League,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,7.0,165.0,20.0
+1254092,2021,Sharjah,League,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3.0,128.0,20.0
+1254099,2021,Abu Dhabi,League,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6.0,136.0,20.0
+1254103,2021,Dubai,League,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7.0,150.0,20.0
+1254091,2021,Sharjah,League,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,135.0,20.0
+1254102,2021,Dubai,League,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,5.0,166.0,20.0
+1254089,2021,Abu Dhabi,League,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,190.0,20.0
+1254112,2021,Sharjah,League,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4.0,130.0,20.0
+1254090,2021,Sharjah,League,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,6.0,165.0,20.0
+1254109,2021,Dubai,League,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,6.0,116.0,20.0
+1254110,2021,Dubai,League,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,3.0,137.0,20.0
+1254093,2021,Sharjah,League,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8.0,91.0,20.0
+1254095,2021,Abu Dhabi,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,4.0,142.0,20.0
+1254094,2021,Dubai,League,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,6.0,135.0,20.0
+1254106,2021,Sharjah,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,86.0,172.0,20.0
+1254088,2021,Abu Dhabi,League,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,42.0,236.0,20.0
+1254101,2021,Dubai,League,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7.0,165.0,20.0
+1254114,2021,Dubai,Qualifier 1,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4.0,173.0,20.0
+1254115,2021,Sharjah,Eliminator,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders,wickets,4.0,139.0,20.0
+1254116,2021,Sharjah,Qualifier 2,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3.0,136.0,20.0
+1254117,2021,Dubai,Final,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,27.0,193.0,20.0
+1304047,2022,Mumbai,League,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,132.0,20.0
+1304048,2022,Mumbai,League,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4.0,178.0,20.0
+1304049,2022,Mumbai,League,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,5.0,206.0,20.0
+1304050,2022,Mumbai,League,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,5.0,159.0,20.0
+1304051,2022,Pune,League,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,runs,61.0,211.0,20.0
+1304052,2022,Mumbai,League,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,3.0,129.0,20.0
+1304053,2022,Mumbai,League,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,6.0,211.0,20.0
+1304054,2022,Mumbai,League,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6.0,138.0,20.0
+1304055,2022,Mumbai,League,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,runs,23.0,194.0,20.0
+1304056,2022,Pune,League,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,Gujarat Titans,runs,14.0,172.0,20.0
+1304057,2022,Mumbai,League,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,runs,54.0,181.0,20.0
+1304058,2022,Mumbai,League,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Lucknow Super Giants,runs,12.0,170.0,20.0
+1304059,2022,Mumbai,League,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4.0,170.0,20.0
+1304060,2022,Pune,League,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5.0,162.0,20.0
+1304061,2022,Mumbai,League,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,6.0,150.0,20.0
+1304062,2022,Mumbai,League,Punjab Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,6.0,190.0,20.0
+1304063,2022,Mumbai,League,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8.0,155.0,20.0
+1304064,2022,Pune,League,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7.0,152.0,20.0
+1304065,2022,Mumbai,League,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,runs,44.0,216.0,20.0
+1304066,2022,Mumbai,League,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,field,Rajasthan Royals,runs,3.0,166.0,20.0
+1304067,2022,Mumbai,League,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8.0,163.0,20.0
+1304068,2022,Mumbai,League,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,runs,23.0,217.0,20.0
+1304069,2022,Pune,League,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,runs,12.0,199.0,20.0
+1304070,2022,Mumbai,League,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Gujarat Titans,runs,37.0,193.0,20.0
+1304071,2022,Mumbai,League,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,7.0,176.0,20.0
+1304072,2022,Mumbai,League,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,runs,18.0,200.0,20.0
+1304073,2022,Mumbai,League,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,runs,16.0,190.0,20.0
+1304074,2022,Mumbai,League,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,7.0,152.0,20.0
+1304075,2022,Pune,League,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,3.0,170.0,20.0
+1304076,2022,Mumbai,League,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,7.0,218.0,20.0
+1304077,2022,Mumbai,League,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,field,Royal Challengers Bangalore,runs,18.0,182.0,20.0
+1304078,2022,Mumbai,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,9.0,116.0,20.0
+1304079,2022,Navi Mumbai,League,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,3.0,156.0,20.0
+1304080,2022,Mumbai,League,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,runs,15.0,223.0,20.0
+1304081,2022,Navi Mumbai,League,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,bat,Gujarat Titans,runs,8.0,157.0,20.0
+1304082,2022,Mumbai,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9.0,69.0,20.0
+1304083,2022,Mumbai,League,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,runs,36.0,169.0,20.0
+1304084,2022,Mumbai,League,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,runs,11.0,188.0,20.0
+1304085,2022,Pune,League,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,runs,29.0,145.0,20.0
+1304086,2022,Mumbai,League,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,5.0,196.0,20.0
+1304087,2022,Mumbai,League,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4.0,147.0,20.0
+1304088,2022,Pune,League,Lucknow Super Giants,Punjab Kings,Punjab Kings,field,Lucknow Super Giants,runs,20.0,154.0,20.0
+1304089,2022,Mumbai,League,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,bat,Gujarat Titans,wickets,6.0,171.0,20.0
+1304090,2022,Navi Mumbai,League,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,159.0,20.0
+1304091,2022,Mumbai,League,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,Lucknow Super Giants,runs,6.0,196.0,20.0
+1304092,2022,Pune,League,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,runs,13.0,203.0,20.0
+1304093,2022,Mumbai,League,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7.0,153.0,20.0
+1304094,2022,Navi Mumbai,League,Gujarat Titans,Punjab Kings,Gujarat Titans,bat,Punjab Kings,wickets,8.0,144.0,20.0
+1304095,2022,Pune,League,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,13.0,174.0,20.0
+1304096,2022,Mumbai,League,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,runs,21.0,208.0,20.0
+1304097,2022,Mumbai,League,Mumbai Indians,Gujarat Titans,Gujarat Titans,field,Mumbai Indians,runs,5.0,178.0,20.0
+1304098,2022,Mumbai,League,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,wickets,6.0,190.0,20.0
+1304099,2022,Pune,League,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,Lucknow Super Giants,runs,75.0,177.0,20.0
+1304100,2022,Mumbai,League,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,67.0,193.0,20.0
+1304101,2022,Navi Mumbai,League,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,91.0,209.0,20.0
+1304102,2022,Navi Mumbai,League,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,runs,52.0,166.0,20.0
+1304103,2022,Pune,League,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,bat,Gujarat Titans,runs,62.0,145.0,20.0
+1304104,2022,Navi Mumbai,League,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,8.0,161.0,20.0
+1304105,2022,Mumbai,League,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,98.0,20.0
+1304106,2022,Mumbai,League,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,runs,54.0,210.0,20.0
+1304107,2022,Pune,League,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,54.0,178.0,20.0
+1304108,2022,Mumbai,League,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,Gujarat Titans,wickets,7.0,134.0,20.0
+1304109,2022,Mumbai,League,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,Rajasthan Royals,runs,24.0,179.0,20.0
+1304110,2022,Navi Mumbai,League,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,runs,17.0,160.0,20.0
+1304111,2022,Mumbai,League,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,runs,3.0,194.0,20.0
+1304112,2022,Navi Mumbai,League,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,Lucknow Super Giants,runs,2.0,211.0,20.0
+1304113,2022,Mumbai,League,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,bat,Royal Challengers Bangalore,wickets,8.0,169.0,20.0
+1304114,2022,Mumbai,League,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,wickets,5.0,151.0,20.0
+1304115,2022,Mumbai,League,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,160.0,20.0
+1304116,2022,Mumbai,League,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,wickets,5.0,158.0,20.0
+1312197,2022,Kolkata,Qualifier 1,Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,7.0,189.0,20.0
+1312198,2022,Kolkata,Eliminator,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,field,Royal Challengers Bangalore,runs,14.0,208.0,20.0
+1312199,2022,Ahmedabad,Qualifier 2,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,158.0,20.0
+1312200,2022,Ahmedabad,Final,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,Gujarat Titans,wickets,7.0,131.0,20.0
+1359475,2023,Ahmedabad,League,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,5.0,179.0,20.0
+1359477,2023,Lucknow,League,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,field,Lucknow Super Giants,runs,50.0,194.0,20.0
+1359478,2023,Hyderabad,League,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,runs,72.0,204.0,20.0
+1359479,2023,Bengaluru,League,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8.0,172.0,20.0
+1359480,2023,Chennai,League,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Chennai Super Kings,runs,12.0,218.0,20.0
+1359481,2023,Delhi,League,Delhi Capitals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,6.0,163.0,20.0
+1359482,2023,Guwahati,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,runs,5.0,198.0,20.0
+1359483,2023,Kolkata,League,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,81.0,205.0,20.0
+1359484,2023,Lucknow,League,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,bat,Lucknow Super Giants,wickets,5.0,122.0,20.0
+1359485,2023,Guwahati,League,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,runs,57.0,200.0,20.0
+1359486,2023,Mumbai,League,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,7.0,158.0,20.0
+1359487,2023,Ahmedabad,League,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,bat,Kolkata Knight Riders,wickets,3.0,205.0,20.0
+1359488,2023,Hyderabad,League,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8.0,144.0,20.0
+1359489,2023,Bengaluru,League,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,1.0,213.0,20.0
+1359490,2023,Delhi,League,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6.0,173.0,20.0
+1359491,2023,Chennai,League,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,runs,3.0,176.0,20.0
+1359492,2023,Chandigarh,League,Punjab Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,6.0,154.0,20.0
+1359493,2023,Kolkata,League,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,23.0,229.0,20.0
+1359494,2023,Bengaluru,League,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,runs,23.0,175.0,20.0
+1359495,2023,Lucknow,League,Lucknow Super Giants,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,2.0,160.0,20.0
+1359496,2023,Mumbai,League,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5.0,186.0,20.0
+1359497,2023,Ahmedabad,League,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,178.0,20.0
+1359498,2023,Bengaluru,League,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,runs,8.0,227.0,20.0
+1359499,2023,Hyderabad,League,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,runs,14.0,193.0,20.0
+1359500,2023,Jaipur,League,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,field,Lucknow Super Giants,runs,10.0,155.0,20.0
+1359501,2023,Chandigarh,League,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,runs,24.0,175.0,20.0
+1359502,2023,Delhi,League,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4.0,128.0,20.0
+1359503,2023,Chennai,League,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,7.0,135.0,20.0
+1359504,2023,Lucknow,League,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,bat,Gujarat Titans,runs,7.0,136.0,20.0
+1359505,2023,Mumbai,League,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,runs,13.0,215.0,20.0
+1359506,2023,Bengaluru,League,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bangalore,runs,7.0,190.0,20.0
+1359507,2023,Kolkata,League,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,49.0,236.0,20.0
+1359508,2023,Hyderabad,League,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,runs,7.0,145.0,20.0
+1359509,2023,Ahmedabad,League,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,Gujarat Titans,runs,55.0,208.0,20.0
+1359510,2023,Bengaluru,League,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,21.0,201.0,20.0
+1359511,2023,Jaipur,League,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,runs,32.0,203.0,20.0
+1359512,2023,Chandigarh,League,Lucknow Super Giants,Punjab Kings,Punjab Kings,field,Lucknow Super Giants,runs,56.0,258.0,20.0
+1359513,2023,Kolkata,League,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,7.0,180.0,20.0
+1359514,2023,Delhi,League,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,9.0,198.0,20.0
+1359515,2023,Chennai,League,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,wickets,4.0,201.0,20.0
+1359516,2023,Mumbai,League,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,wickets,6.0,213.0,20.0
+1359517,2023,Lucknow,League,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,18.0,127.0,20.0
+1359518,2023,Ahmedabad,League,Delhi Capitals,Gujarat Titans,Delhi Capitals,bat,Delhi Capitals,runs,5.0,131.0,20.0
+1359520,2023,Chandigarh,League,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6.0,215.0,20.0
+1359521,2023,Hyderabad,League,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,5.0,172.0,20.0
+1359522,2023,Jaipur,League,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,Gujarat Titans,wickets,9.0,119.0,20.0
+1359523,2023,Chennai,League,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6.0,140.0,20.0
+1359524,2023,Delhi,League,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Delhi Capitals,wickets,7.0,182.0,20.0
+1359525,2023,Ahmedabad,League,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,field,Gujarat Titans,runs,56.0,228.0,20.0
+1359526,2023,Jaipur,League,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,4.0,215.0,20.0
+1359527,2023,Kolkata,League,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders,wickets,5.0,180.0,20.0
+1359528,2023,Mumbai,League,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6.0,200.0,20.0
+1359529,2023,Chennai,League,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,27.0,168.0,20.0
+1359530,2023,Kolkata,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,9.0,150.0,20.0
+1359531,2023,Mumbai,League,Mumbai Indians,Gujarat Titans,Gujarat Titans,field,Mumbai Indians,runs,27.0,219.0,20.0
+1359532,2023,Hyderabad,League,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,bat,Lucknow Super Giants,wickets,7.0,183.0,20.0
+1359533,2023,Delhi,League,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,runs,31.0,168.0,20.0
+1359534,2023,Jaipur,League,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,112.0,172.0,20.0
+1359535,2023,Chennai,League,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,6.0,145.0,20.0
+1359536,2023,Ahmedabad,League,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Gujarat Titans,runs,34.0,189.0,20.0
+1359537,2023,Lucknow,League,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,runs,5.0,178.0,20.0
+1359538,2023,Dharamsala,League,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,runs,15.0,214.0,20.0
+1359539,2023,Hyderabad,League,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8.0,187.0,20.0
+1359540,2023,Dharamsala,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4.0,188.0,20.0
+1359541,2023,Delhi,League,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,77.0,224.0,20.0
+1359542,2023,Kolkata,League,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,Lucknow Super Giants,runs,1.0,177.0,20.0
+1359543,2023,Mumbai,League,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8.0,201.0,20.0
+1359544,2023,Bengaluru,League,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,6.0,198.0,20.0
+1370350,2023,Chennai,Qualifier 1,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Chennai Super Kings,runs,15.0,173.0,20.0
+1370351,2023,Chennai,Eliminator,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,bat,Mumbai Indians,runs,81.0,183.0,20.0
+1370352,2023,Ahmedabad,Qualifier 2,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,Gujarat Titans,runs,62.0,234.0,20.0
+1422120,2024,Mohali,League,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,4.0,175.0,20.0
+1422121,2024,Kolkata,League,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,4.0,209.0,20.0
+1422122,2024,Jaipur,League,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,Rajasthan Royals,runs,20.0,194.0,20.0
+1422123,2024,Ahmedabad,League,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,Gujarat Titans,runs,6.0,169.0,20.0
+1422125,2024,Chennai,League,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Chennai Super Kings,runs,63.0,207.0,20.0
+1422126,2024,Hyderabad,League,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,runs,31.0,278.0,20.0
+1422127,2024,Jaipur,League,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,runs,12.0,186.0,20.0
+1422129,2024,Lucknow,League,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,bat,Lucknow Super Giants,runs,21.0,200.0,20.0
+1422130,2024,Ahmedabad,League,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,bat,Gujarat Titans,wickets,7.0,163.0,20.0
+1422131,2024,Visakhapatnam,League,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,runs,20.0,192.0,20.0
+1422132,2024,Mumbai,League,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6.0,126.0,20.0
+1422134,2024,Visakhapatnam,League,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,106.0,273.0,20.0
+1422135,2024,Ahmedabad,League,Gujarat Titans,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,3.0,200.0,20.0
+1422136,2024,Hyderabad,League,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6.0,166.0,20.0
+1422138,2024,Mumbai,League,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,29.0,235.0,20.0
+1422139,2024,Lucknow,League,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,bat,Lucknow Super Giants,runs,33.0,164.0,20.0
+1426260,2024,Chennai,League,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,7.0,138.0,20.0
+1426261,2024,Mohali,League,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,runs,2.0,183.0,20.0
+1426262,2024,Jaipur,League,Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,3.0,197.0,20.0
+1426264,2024,Lucknow,League,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,Delhi Capitals,wickets,6.0,168.0,20.0
+1426265,2024,Mohali,League,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3.0,148.0,20.0
+1426266,2024,Kolkata,League,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8.0,162.0,20.0
+1426267,2024,Mumbai,League,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,20.0,207.0,20.0
+1426269,2024,Kolkata,League,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,2.0,224.0,20.0
+1426270,2024,Ahmedabad,League,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6.0,90.0,20.0
+1426271,2024,Mohali,League,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,runs,9.0,193.0,20.0
+1426272,2024,Lucknow,League,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,8.0,177.0,20.0
+1426273,2024,Delhi,League,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,67.0,267.0,20.0
+1426275,2024,Mohali,League,Punjab Kings,Gujarat Titans,Punjab Kings,bat,Gujarat Titans,wickets,3.0,143.0,20.0
+1426276,2024,Jaipur,League,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,9.0,180.0,20.0
+1426277,2024,Chennai,League,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,6.0,211.0,20.0
+1426278,2024,Delhi,League,Delhi Capitals,Gujarat Titans,Gujarat Titans,field,Delhi Capitals,runs,4.0,225.0,20.0
+1426280,2024,Kolkata,League,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,8.0,262.0,20.0
+1426281,2024,Delhi,League,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,10.0,258.0,20.0
+1426282,2024,Lucknow,League,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7.0,197.0,20.0
+1426284,2024,Chennai,League,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,runs,78.0,213.0,20.0
+1426285,2024,Kolkata,League,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,wickets,7.0,154.0,20.0
+1426286,2024,Lucknow,League,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,wickets,4.0,145.0,20.0
+1426287,2024,Chennai,League,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,wickets,7.0,163.0,20.0
+1426288,2024,Hyderabad,League,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,1.0,202.0,20.0
+1426289,2024,Mumbai,League,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,runs,24.0,170.0,20.0
+1426291,2024,Dharamsala,League,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,runs,28.0,168.0,20.0
+1426292,2024,Lucknow,League,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,field,Kolkata Knight Riders,runs,98.0,236.0,20.0
+1426293,2024,Mumbai,League,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,7.0,174.0,20.0
+1426294,2024,Delhi,League,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,runs,20.0,222.0,20.0
+1426295,2024,Hyderabad,League,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,bat,Sunrisers Hyderabad,wickets,10.0,166.0,20.0
+1426297,2024,Ahmedabad,League,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,field,Gujarat Titans,runs,35.0,232.0,20.0
+1426299,2024,Chennai,League,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,wickets,5.0,142.0,20.0
+1426302,2024,Delhi,League,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,field,Delhi Capitals,runs,19.0,209.0,20.0
+1426303,2024,Guwahati,League,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Punjab Kings,wickets,5.0,145.0,20.0
+1426305,2024,Mumbai,League,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,runs,18.0,215.0,20.0
+1426307,2024,Hyderabad,League,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,wickets,4.0,215.0,20.0
+1426309,2024,Ahmedabad,Qualifier 1,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,8.0,160.0,20.0
+1426311,2024,Chennai,Qualifier 2,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,runs,36.0,176.0,20.0
+1426312,2024,Chennai,Final,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,8.0,114.0,20.0
